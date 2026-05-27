@@ -89,8 +89,8 @@ with st.sidebar:
     **Tim:** CC26-PSU304  
     **Path:** Data Scientist  
     **Dikerjakan oleh:**  
-    Diwan Ramadhani (W1, W2)  
-    Rofiqho Izmi (W3 EDA)
+    Diwan Ramadhani Dwi Putra - CDCC119D6Y1045
+    Rofiqho Izmi - CDCC295D6Y0838
     """)
 
 st.title("FaceFit Barber — Dataset Dashboard")
