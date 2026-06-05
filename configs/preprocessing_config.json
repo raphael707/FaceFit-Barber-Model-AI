@@ -1,0 +1,8 @@
+{
+  "face_preprocessing_mode": "center_crop",
+  "original_dataset_dir": "/content/drive/MyDrive/dataset_after_balancing/after_balancing",
+  "active_dataset_dir": "/content/drive/MyDrive/dataset_after_balancing/after_balancing_preprocessed_center_crop",
+  "center_crop_ratio": 0.88,
+  "classifier_model_from_scratch": true,
+  "preprocessing_used_for_classification": false
+}
